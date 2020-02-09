@@ -5,7 +5,7 @@ Ví dụ cho hai chuỗi “WX” và “YZ” thì các chuỗi có thể tạo
 
 Gợi ý: Sử dụng đệ quy bóc tách từng ký tự trong từng chuỗi ra và thử vào chuỗi kết quả. 
 
-[interleavings string](./interleavings-string-1024x672.jpg)
+![interleavings string](./interleavings-string-1024x672.jpg)
 
 
 Các bạn mở file `Excersize13.java` và tự code thử đi nha, xong rồi biên dịch và chạy thử
