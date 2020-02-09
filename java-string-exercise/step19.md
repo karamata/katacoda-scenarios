@@ -1,4 +1,4 @@
-# Bài 2
+# Bài 19
 Cho 2 string, gắn chúng lại với nhau, nếu 2 chuỗi có độ dài không bằng nhau thì tiến hành cắt bỏ các ký tự đầu của string dài hơn cho đến khi chúng bằng nhau thì tiến hành gắn lại. Ví dụ Welcome và home => comehome.
 
 

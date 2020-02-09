@@ -1,4 +1,4 @@
-# Bài 2
+# Bài 4
 Đảo ngược chuỗi sử dụng vòng lặp và đệ quy. 
 
 Gợi ý: Sử dụng StringBuilder hoặc StringBuffer để dễ dàng thao tác hơn, tránh sử dụng String ví nó có tính chất immutable việc thao tác trên chúng sẽ khiến nó tạo thêm một String mới gây hao tổn bộ nhớ. 

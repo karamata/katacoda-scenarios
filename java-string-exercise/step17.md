@@ -1,4 +1,4 @@
-# Bài 2
+# Bài 17
 Cho một chuỗi str và số nguyên n >= 0. Chia chuỗi str ra làm các phần bằng nhau với n ký tự. Nếu chuỗi không chia được thì xuất ra màn hình “KO”.
 
 Ví dụ:

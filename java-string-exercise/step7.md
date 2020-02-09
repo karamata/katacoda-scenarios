@@ -1,4 +1,4 @@
-# Bài 2
+# Bài 7
 Chuyển chuỗi số nguyên sang int value. Ví dụ “5646” thành int = 5646.  
 
 Gợi ý: Dùng Integer wrapper class để convert string sang int nhanh chóng.

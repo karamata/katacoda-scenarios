@@ -1,4 +1,4 @@
-# Bài 2
+# Bài 3
 Tìm ký tự chỉ xuất hiện một lần trong chuỗi, nếu có nhiều hơn một thì xuất ra màn hình ký tự đầu tiên. Nếu không có ký tự nào unique xuất ra “NO”.
 
 Gợi ý:

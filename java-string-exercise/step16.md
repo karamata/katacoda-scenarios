@@ -1,4 +1,4 @@
-# Bài 2
+# Bài 16
 Viết chương trình in tất cả các chuỗi có thể có từ các ký tự của một chuỗi cho trước.
 
 Ví dụ: “PQR” => PPP PPQ PPR PQP PQQ PQR PRP PRQ PRR QPP QPQ QPR QQP QQQ QQR QRP QRQ QRR RPP RPQ RPR RQP RQQ RQR RRP RRQ RRR. 

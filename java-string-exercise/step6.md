@@ -1,4 +1,4 @@
-# Bài 2
+# Bài 6
 Đếm số lượng ký tự nguyên âm và phụ âm xuất hiện trong chuỗi. Ví dụ chuỗi “java” có 2 nguyên âm “a” và 2 phụ âm “j” và “v”.
 
 Gợi ý: Dùng switch case để đếm số lượng ký tự nguyên âm. Số phụ âm sẽ là độ dài của chuỗi trừ cho số lượng phụ âm.

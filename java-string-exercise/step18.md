@@ -1,4 +1,4 @@
-# Bài 2
+# Bài 18
 Xoá tất cả các ký tự liền kề và giống nhau. Ví dụ aabaarbarccrabmq thì kết quả là brmq.
 
 

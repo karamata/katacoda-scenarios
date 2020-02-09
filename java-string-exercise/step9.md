@@ -1,4 +1,4 @@
-# Bài 2
+# Bài 9
 Đảo ngược các ký tự của chuỗi cách nhau bởi dấu cách mà không dùng thư viện. Ví dụ “I am developer ” => “developer am I”. Các ký tự bên trong chỉ cách nhau đúng một dấu khoảng cách.
 
 Gợi ý: Các bạn cần loại bỏ dấu cách ở đầu và cuối câu, thao tác cắt chuỗi theo dấu cách và dùng StringBuilder hoặc StringBuffer để nối chuỗi.
@@ -32,7 +32,7 @@ Các bạn mở file `Excersize9.java` và tự code thử đi nha, xong rồi b
                 System.out.println(reverseWord2("java is the best "));
 
             }
-            
+
             public static String reverseWord1(String sentence) {
                     if (sentence == null || sentence.isEmpty()) {
                         return "";

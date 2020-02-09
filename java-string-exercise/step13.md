@@ -1,4 +1,4 @@
-# Bài 2
+# Bài 13
 Tìm xem có bao nhiêu chuỗi xen kẽ từ 2 chuỗi cho trước. Giả sử rằng các ký tự trong 2 chuỗi là khác nhau.
 
 Ví dụ cho hai chuỗi “WX” và “YZ” thì các chuỗi có thể tạo nên là: YWZX, WYZX, YWXZ, WXYZ, YZWX, WYXZ.

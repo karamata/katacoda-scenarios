@@ -1,4 +1,4 @@
-# Bài 2
+# Bài 10
 Chuỗi palindrome là chuỗi sau khi đảo ngược và chuỗi ban đầu hoàn toàn giống nhau, ví dụ “aba” là một chuỗi “aba”
 
 Gợi ý: Đảo ngược chuỗi và so sánh với chuỗi ban đầu hoặc loop và so sánh từng cặp chữ một.

@@ -1,4 +1,4 @@
-# Bài 2
+# Bài 12
 Tìm substring palindrome dài nhất trong một chuỗi cho trước. Biết rằng chuỗi palindrome là chuỗi sau khi đảo ngược và chuỗi ban đầu giống nhau.
 
 

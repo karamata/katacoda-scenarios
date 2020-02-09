@@ -1,4 +1,4 @@
-# Bài 2
+# Bài 8
 Cho một chuỗi str, chuyển các ký tự được chỉ định sang một ký tự khác cho trước. Ví dụ “shareprogramming.net” chuyển ‘e’ sang ‘*’ kết qủa “shar*programming.n*t”.
 
 Gợi ý: Các bạn có thể dùng String#replace() hoặc StringBuilder để loop và thao tác.
